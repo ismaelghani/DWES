@@ -1,0 +1,74 @@
+
+  
+  header {
+    color: purple;
+    text-align: center;
+    
+  }
+  
+  h2 {
+    font-family: Verdana;
+    font-weight: bold;
+  }
+  
+  main {
+    /* border: brown dotted 5px; */
+    display: flex;
+    justify-content: center;
+  }
+  
+  .pop {
+    margin: 20px;
+    border-radius: 25px;
+    width: 30%;
+    background: blue;
+    padding: 20px 20px 20px 20px;
+   
+  }
+  .inpf,
+  select {
+    font-family: monospace;
+    width: 100%;
+    padding: 14px 20px;
+    margin: 10px 0 25px 0;
+    border: none;
+    border-radius: 15px;
+    box-sizing: border-box;
+    font-size: large;
+    /* display: inline-block; */
+  }
+  
+  input[type="submit"] {
+    font-family: monospace;
+    width: 50%;
+    background-color: green;
+    color: white;
+    padding: 14px 20px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 15px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: red;
+  }
+  
+  .inpcon {
+    font-family: monospace;
+    width: 100%;
+    padding: 14px 20px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 15px;
+    box-sizing: border-box;
+    font-size: large;
+  }
+  
+  .labelname {
+    color: black;
+    font-family: Verdana;
+    font-weight: bold;
+  }
+  

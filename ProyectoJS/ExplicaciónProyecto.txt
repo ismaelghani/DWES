@@ -1,0 +1,15 @@
+Mi proyecto va acerca de una pagina sobre boxeo.
+-->En primer lugar aparecerá el login en una pantalla de carga (usuario=ismael , contraseña=123);
+
+-->A continuación nos aparecerá en la parte de arriba una barra de navegación con 5 botones disponibles(boxing,cartas,clasificaciones,crear y logout),
+ y en el body tenemos 2 videos de youtube;
+
+--> El boton de cartas nos mostrará 5 cartas de boxeadores imprimidas por html y json.
+
+--> El boton de clasificaciones nos mostrará por orden de victorias los 5 luchadores que tenemos ordenados.
+
+--> El botón de crear nos mostrará un formulario para poder crer un nuevo boxeador y mostrarlo.
+
+--> El botón de logout cerrará sesión y nos devolverá al login para volver a iniciar sesión.
+
+Todo el código esta separado por módulos y utiliza cookies.

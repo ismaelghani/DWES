@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Mike",
+        "lastname": "Tyson",
+        "nationality": "Nueva York",
+        "height": "178cm",
+        "weight": "Peso Pesado",
+        "combates": "56",
+        "victorias": "50",
+        "derrotas": "6",
+        "nacimiento": "30.06.1966",
+        "frase": "Mientras perseveramos y resistimos, podemos conseguir todo lo que queremos.",
+        "img": "tyson.jpg"
+    },
+    {
+        "name": "Floyd",
+        "lastname": "Mayweather",
+        "nationality": "Michigan",
+        "height": "173cm",
+        "weight": "Peso Ligero",
+        "combates": "50",
+        "victorias": "50",
+        "derrotas": "0",
+        "nacimiento": "24.02.1977",
+        "frase": "Nunca ha sido fácil para mi. El boxeo es fácil, pero la vida nunca ha sido sencilla",
+        "img": "floyd.jpg"
+    },
+    {
+        "name": "Ryan",
+        "lastname": "Garcia",
+        "nationality": "California",
+        "height": "178cm",
+        "weight": "Peso Ligero",
+        "combates": "20",
+        "victorias": "20",
+        "derrotas": "0",
+        "nacimiento": "08.08.1998",
+        "frase": "No hay placeres en una pelea, aunque alguna de mis peleas ganadas fueron un placer.",
+        "img": "ryan.png"
+    },
+    {
+        "name": "Anthony",
+        "lastname": "Joshua",
+        "nationality": "Watford",
+        "height": "198cm",
+        "weight": "Peso Pesado",
+        "combates": "24",
+        "victorias": "23",
+        "derrotas": "1",
+        "nacimiento": "15.10.1989",
+        "frase": "Usa todo lo que te ha hecho daño, todo el dolor que tienes dentro.",
+        "img": "joshua.jpg"
+    },
+    {
+        "name": "Manny",
+        "lastname": "Pacquiao",
+        "nationality": "Filipinas",
+        "height": "167cm",
+        "weight": "Peso Lgero",
+        "combates": "71",
+        "victorias": "62",
+        "derrotas": "7",
+        "nacimiento": "17.12.1978",
+        "frase": "Un campeón es alguien que se levanta cuando no puede.",
+        "img": "many.webp"
+    }
+]
